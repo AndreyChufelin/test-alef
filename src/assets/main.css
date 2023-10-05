@@ -1,0 +1,17 @@
+@import './base.css';
+
+.container {
+  max-width: 616px;
+  width: 100%;
+  margin: 0 auto;
+}
+.title {
+  font-size: 16px;
+  font-weight: 500;
+}
+.button {
+  border-radius: 100px; 
+  background-color: #01A7FD;
+  padding: 10px 20px;
+  color: white;
+}
